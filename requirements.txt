@@ -1,0 +1,9 @@
+numpy
+pandas
+PyQt5==5.15.10
+matplotlib
+scikit-learn
+prophet
+kaggle
+loguru
+python-dotenv
