@@ -7,3 +7,5 @@ prophet
 kaggle
 loguru
 python-dotenv
+mlflow
+fbprophet
